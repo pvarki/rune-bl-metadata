@@ -1,1 +1,1 @@
-# Livelog metadata
+# Battlelog metadata

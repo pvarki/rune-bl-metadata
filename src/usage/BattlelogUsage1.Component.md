@@ -1,14 +1,14 @@
-Livelog is platform to aggregate and enrich data brought from different sources.
-All data in Livelog is handled in "events". Single event can contain following inputs:
+Battlelog is platform to aggregate and enrich data brought from different sources.
+All data in Battlelog is handled in "events". Single event can contain following inputs:
 
-![PVARKI-livelogi-ohje](../assets/PVARKI-livelogi-ohje.jpg)
+![PVARKI-bl-ohje](../assets/PVARKI-bl-ohje.jpg)
 
 1. Header
     * Header of the event.
 2. Source
     - Where the data is coming from.
 3. Date / time
-    - Date and time of the event (this is the time when something happened, not when it was submitted to Livelog).
+    - Date and time of the event (this is the time when something happened, not when it was submitted to Battlelog).
 4. HCOE Domains
     - Categorization of the event based on Hybrid CoE classification.
 5. Link

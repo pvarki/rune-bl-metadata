@@ -1,4 +1,4 @@
-![PVARKI-livelogi-ohje-3](../assets/PVARKI-livelogi-ohje-3.jpg)
+![PVARKI-bl-ohje-3](../assets/PVARKI-bl-ohje-3.jpg)
 
 Displays all details from the selected event.
 

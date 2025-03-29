@@ -1,0 +1,19 @@
+{
+  "serviceBattlelog.foldableCardTitle": "Battlelog",
+  "serviceBattlelog.serviceInfoCardTitle": "Battlelog Event Service",
+  "serviceBattlelog.unfoldableCardTitle": "How to get started",
+  "serviceBattlelog.step1Description": "<strong>Quickstart Guide</strong> tells you how to start using Battlelog on your device.",
+  "serviceBattlelog.step2Description": "The <strong>Usage Guide</strong> tells you how to use the application, according to our standard model.",
+  "serviceBattlelog.step3Description": "Download the <strong>Client Package</strong> and install it to your TAK device according to the Quickstart Guide, to get using the app.",
+  "serviceBattlelogUsageCard.title": "Purpose",
+  "serviceBattlelogUsageCard.content": "<ul><li>Real-time tracking of friendlies <em>(GPS).</em></li><li>Send observations to the command post (HQ) for interpretation.</li><li>Follow the <strong>Recon Feed</strong></li></ul>",
+  "serviceBattlelog.guideButton.quickStart": "Quickstart",
+  "serviceBattlelog.guideButton.usage": "Usage Guide",
+  "serviceBattlelog.grabZipButton": "Open Battlelog",
+  "serviceBattlelogUsageView.navbarTitle": "Battlelog Usage Guide",
+  "serviceBattlelogUsageView.title": "Battlelog",
+  "serviceBattlelogUsageView.subtitle1": "1. Creating a new event",
+  "serviceBattlelogUsageView.subtitle2": "2. Searching existing events",
+  "serviceBattlelogUsageView.subtitle3": "3. Viewing existing events",
+  "serviceBattlelogUsageView.subtitle4": "4. Single event view"
+}

@@ -1,4 +1,4 @@
-![PVARKI-livelogi-ohje-2](../assets/PVARKI-livelogi-ohje-2.jpg)
+![PVARKI-bl-ohje-2](../assets/PVARKI-bl-ohje-2.jpg)
 
 Permalink (15) opens the single event view. This link is also shareable and permanent/unique per event, so it remains unchanged and will always lead back to this event.
 
